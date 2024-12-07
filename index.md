@@ -1,1 +1,4 @@
-# This book contains Project 1, Project 2, and Project 3.
+# Projects of Computing in Context
+# Project 1 
+# Project 2
+# Project 3
